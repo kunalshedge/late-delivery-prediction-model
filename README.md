@@ -187,14 +187,3 @@ Dataset Source: *DataCo SMART Supply Chain Dataset*
 
 ---
 
-## 📜 License
-
-MIT License (optional — add if you choose)
-
----
-
-If you'd like, I can also:
-✅ Add a badges section (Python version, stars, license, etc.)
-✅ Create a more advanced README layout with emojis and visuals
-✅ Generate a project logo/banner
-Just tell me!
