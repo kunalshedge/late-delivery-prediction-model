@@ -186,4 +186,9 @@ Open Jupyter Notebook or VS Code and run:
 Dataset Source: *DataCo SMART Supply Chain Dataset*
 
 ---
+## **👨‍💻 Author**
 
+**Kunal — Aspiring Data Scientist**
+Master’s Student in Applied Data Science
+Focused on ML, analytics, and data-driven decision-making.
+---
